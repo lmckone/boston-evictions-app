@@ -1,0 +1,17 @@
+version: 0.2
+phases:
+  install:
+    commands:
+      - apt-get -y update && apt-get -y upgrade
+      - apt-get -y install software-properties-common
+      - chmod u+x infrastructure/codebuild/*
+
+
+
+
+  build:
+    commands:
+      - ./infrastructure/codebuild/download_data_from_s3.sh
+      - ./infrastructure/codebuild/build_docker_image.sh
+
+
