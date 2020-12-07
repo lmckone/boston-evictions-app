@@ -12,10 +12,10 @@ The data underlying this application was intially collected by volunteers who tr
 
 The app is secured to protect individual-level data. The screenshots below show the appearance and capabilities of the application.
 
-![Image 1](https://github.com/lmckone/boston-evictions-app/screenshots/evictionapp1.png)
-![Image 2](https://github.com/lmckone/boston-evictions-app/screenshots/evictionapp2.png)
-![Image 3](https://github.com/lmckone/boston-evictions-app/screenshots/evictionapp3.png)
-![Image 4](https://github.com/lmckone/boston-evictions-app/screenshots/evictionapp4.png)
+![Image 1](https://github.com/lmckone/boston-evictions-app/blob/main/screenshots/evictionapp1.png)
+![Image 2](https://github.com/lmckone/boston-evictions-app/blob/main/screenshots/evictionapp2.png)
+![Image 3](https://github.com/lmckone/boston-evictions-app/blob/main/screenshots/evictionapp3.png)
+![Image 4](https://github.com/lmckone/boston-evictions-app/blob/main/screenshots/evictionapp4.png)
 
 
 ## Built with
