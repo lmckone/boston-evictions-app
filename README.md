@@ -12,9 +12,16 @@ The data underlying this application was intially collected by volunteers who tr
 
 The app is secured to protect individual-level data. The screenshots below show the appearance and capabilities of the application.
 
+### Filters and appearance
 ![Image 1](https://github.com/lmckone/boston-evictions-app/blob/main/screenshots/evictionapp1.png)
+
+### Levels of Geographic Visualization
 ![Image 2](https://github.com/lmckone/boston-evictions-app/blob/main/screenshots/evictionapp2.png)
+
+### Street-Level Insight
 ![Image 3](https://github.com/lmckone/boston-evictions-app/blob/main/screenshots/evictionapp3.png)
+
+### Export the underlying data
 ![Image 4](https://github.com/lmckone/boston-evictions-app/blob/main/screenshots/evictionapp4.png)
 
 
